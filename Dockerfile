@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="b850236c-a80e-46f6-a531-1aee5863640a"
-ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
+ARG AUUID="60551a51-fadf-4205-a176-559a945e0e0b"
+ARG CADDYIndexPage="https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip"
 ARG PORT=8080
 
 ADD etc/Caddyfile /tmp/Caddyfile
